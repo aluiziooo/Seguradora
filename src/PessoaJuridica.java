@@ -1,5 +1,5 @@
 
-public class PessoaJuridica extends Clientes {
+public class PessoaJuridica extends Clientes {//extendendo a cliente, posso criar um objeto filho
 
 	private String cnpj;
 	private String inscricaoEstadual;
